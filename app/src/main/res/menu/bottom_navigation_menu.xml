@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mealsFragment"
+        android:title="@string/Browse"
+        android:icon="@drawable/search"></item>
+
+    <item android:id="@+id/myCartFragment"
+        android:title="@string/myCart"
+        android:icon="@drawable/cart"></item>
+
+    <item android:id="@+id/mealsPlanFragment"
+        android:title="@string/mealplans"
+        android:icon="@drawable/eat"></item>
+</menu>
